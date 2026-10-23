@@ -1,2 +1,18 @@
 .codex_tmp/
 tmp/
+
+# Quartus generated files
+lab1/db/
+lab1/incremental_db/
+lab1/output_files/
+lab1/*.rpt
+lab1/*.summary
+lab1/*.done
+lab1/*.pin
+lab1/*.sof
+lab1/*.pof
+lab1/*.jdi
+lab1/*.smsg
+lab1/*.qws
+lab1/*.qdf
+lab1/*.bak
